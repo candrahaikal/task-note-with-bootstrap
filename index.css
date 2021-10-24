@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+
+body{
+  font-family: Quicksand;
+}
+.container{
+  width: 60%;
+}
+.form-control{
+  width: 100%;
+}
+
+@media  screen and (max-width: 768px) {
+  .container{
+    width: 80%;
+  }
+}
